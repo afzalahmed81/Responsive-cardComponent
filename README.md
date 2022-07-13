@@ -1,1 +1,1 @@
-# Responsive-cardComponent
+Responsive Product Card. This is a practice project.
